@@ -91,3 +91,49 @@
     background-size: 100%;
     margin-left: 53px;
 }
+
+.my-recipies {
+    text-align: center;
+    color: gray;
+    font-size: 40px;
+}
+
+.lorem {
+    text-align: center;
+    color: gray;
+}
+
+.lorem-2 {
+    text-align: center;
+    color: gray;
+}
+
+.number {
+    text-align: center;
+    color: gray;
+}
+
+.sceond-div {
+    display: flex;
+}
+
+#recipies {
+    width: 50%;
+    padding: 20px 80px;
+    margin-right: 20px;
+
+}
+
+.picture-food {
+    width: 100%;
+}
+
+.text-half {
+    width: 100%;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.text-half-2 {
+    font-size: 30px;
+}
