@@ -121,6 +121,8 @@
     width: 50%;
     padding: 20px 80px;
     margin-right: 20px;
+    box-shadow: 10px 20px 30px gray;
+    border-radius: 25px;
 
 }
 
@@ -136,4 +138,37 @@
 
 .text-half-2 {
     font-size: 30px;
+}
+
+.three-div {
+    display: flex;
+    width: 100%;
+    font-size: 20px;
+    box-shadow: 30px 40px 50px gray;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.div-frist {
+    font-size: 30px;
+    margin-left: 350px;
+    padding-top: 90px;
+    padding-bottom: 100px;
+    margin-top: 50px;
+}
+
+.div-sceond {
+    font-size: 30px;
+    margin-left: 320px;
+    padding-top: 90px;
+    padding-bottom: 100px;
+    margin-top: 50px;
+}
+
+.div-thard {
+    font-size: 30px;
+    margin-left: 330px;
+    padding-top: 90px;
+    padding-bottom: 100px;
+    margin-top: 50px;
 }
